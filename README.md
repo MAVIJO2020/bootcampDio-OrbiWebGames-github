@@ -1,5 +1,5 @@
-# bootcampDio-OrbiWebGames-github
-Desafio Git/GitHub do Bootcamp da Digital Innovation One - Orbi Web Games
+# Desafio Git/GitHub do Bootcamp da Digital Innovation One - Orbi Web Games
+Entrega do desafio do primeiro repositório no Github
 
 
 ## PORTFÓLIO 
